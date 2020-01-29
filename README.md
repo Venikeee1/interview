@@ -13,10 +13,11 @@ Common questions for frontend developer.
 11) Write your own subscriber
 12) Task about optimiaztion of searching in 100k sorted items items
 13) Promises vs Observable
+14) Can we implement Promise.all in async/await style?
 
 ---------Browser behaviors and HTTP---------
 1) Describe flow of HTTP request
-2) CORS and why they needed
+2) CORS vs jsonp and why they needed
 3) What type of security vulnerability do you know
 4) How to increase performance
 
