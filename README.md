@@ -14,6 +14,7 @@ Common questions for frontend developer.
 12) Task about optimiaztion of searching in 100k sorted items items
 13) Promises vs Observable
 14) Can we implement Promise.all in async/await style?
+15) CommonJS vs AMD
 
 ---------Browser behaviors and HTTP---------
 1) Describe flow of HTTP request
