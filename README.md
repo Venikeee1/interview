@@ -6,5 +6,21 @@ Common questions for frontend developer.
 4) Symbols
 5) Objects
 6) Prototypes vs __proto__
-7) Describe process of creating object by using function contructor and operator 'new'
-8) 
+7) Can you write your own 'instance of'
+8) Describe process of creating object by using function contructor and operator 'new'
+9) @@@ How js works(AST(abstract syntax tree), optimizator, JIT(just in time))
+10) Cashe in V8 and hidden classes js
+11) Write your own subscriber
+12) Task about optimiaztion of searching in 100k sorted items items
+13) Promises vs Observable
+
+---------Browser behaviors and HTTP---------
+1) Describe flow of HTTP request
+2) CORS and why they needed
+3) What type of security vulnerability do you know
+4) How to increase performance
+
+---------Team works---------
+1) How would you manege a new large project. What tools will you use?
+2) How you are planing your workflow?
+3) How you gonna structure your project?
