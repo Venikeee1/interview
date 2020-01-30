@@ -26,3 +26,4 @@ Common questions for frontend developer.
 1) How would you manege a new large project. What tools will you use?
 2) How you are planing your workflow?
 3) How you gonna structure your project?
+4) How would you control code quality on your project?
