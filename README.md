@@ -45,3 +45,21 @@ Common questions for frontend developer.
 5) Vuex
 6) nextTick
 7) Provide, Inject
+
+<template>
+  <h1>Hello</h1>
+</template>
+
+<script>
+export default {
+  name: 'Hello',
+  data: {
+    value: 1
+  },
+  mounted() {
+    for (i = 0; i < 100; i++ ) {
+      this.value = this.value++;
+    }
+  }
+}
+</script>
