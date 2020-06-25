@@ -36,3 +36,12 @@ Common questions for frontend developer.
 - How you are planing your workflow?
 - How you gonna structure your project?
 - How would you control code quality on your project?
+
+---------Vue---------
+1) Reactivity
+2) data vs computed vs watcher
+3) Event propagation
+4) slots
+5) Vuex
+6) nextTick
+7) Provide, Inject
