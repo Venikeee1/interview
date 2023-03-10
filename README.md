@@ -1,5 +1,17 @@
 # interview
 Common questions for frontend developer.
+
+## HTML
+- What is new in css and html
+- display variants
+- positiong
+- css variables
+- Buttton vs anchor
+- Semantic tags
+
+## JS
+- how browser works
+- repaint and reflow
 - Js gamechanger features from ES6.
 - ES what is new for today.
 - var, let, const
